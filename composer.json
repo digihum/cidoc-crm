@@ -1,5 +1,5 @@
 {
-    "name": "computerminds/cidoc-crm",
+    "name": "digihum/cidoc-crm",
     "type": "library",
     "description": "A representation of the CIDOC-CRM in Yaml and readable via PHP.",
     "license": "MIT",
